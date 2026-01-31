@@ -21,6 +21,7 @@ MAX_CHAPTERS = 20
 # RSS元数据
 RSS_TITLE = "一人之下 - 包子漫画"
 RSS_DESCRIPTION = "一人之下漫画更新订阅"
+RSS_URL = "https://raw.githubusercontent.com/qijin-3/localRSS/main/output/yirenzhixia.xml"
 
 
 def fetch_manga_page():
@@ -118,7 +119,7 @@ def generate_rss(chapters, output_file):
     
     # 添加atom:link自引用
     atom_link = ET.SubElement(channel, 'atom:link')
-    atom_link.set('href', f'file://{output_file}')
+    atom_link.set('href', RSS_URL)
     atom_link.set('rel', 'self')
     atom_link.set('type', 'application/rss+xml')
     
