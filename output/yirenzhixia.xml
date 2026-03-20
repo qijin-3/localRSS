@@ -5,8 +5,15 @@
     <link>https://www.baozimh.com/comic/yirenzhixia-dongmantang</link>
     <description>一人之下漫画更新订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 20 Mar 2026 01:57:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 04:19:08 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/qijin-3/localRSS/main/output/yirenzhixia.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>756 致死</title>
+      <link>https://www.baozimh.com/user/page_direct?comic_id=yirenzhixia-dongmantang&amp;section_slot=0&amp;chapter_slot=793</link>
+      <description>一人之下 - 包子漫画 - 756 致死</description>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.baozimh.com/user/page_direct?comic_id=yirenzhixia-dongmantang&amp;section_slot=0&amp;chapter_slot=793</guid>
+    </item>
     <item>
       <title>755 臨門</title>
       <link>https://www.baozimh.com/user/page_direct?comic_id=yirenzhixia-dongmantang&amp;section_slot=0&amp;chapter_slot=792</link>
@@ -139,13 +146,6 @@
       <description>一人之下 - 包子漫画 - 739 新生</description>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.baozimh.com/user/page_direct?comic_id=yirenzhixia-dongmantang&amp;section_slot=0&amp;chapter_slot=774</guid>
-    </item>
-    <item>
-      <title>738 命名</title>
-      <link>https://www.baozimh.com/user/page_direct?comic_id=yirenzhixia-dongmantang&amp;section_slot=0&amp;chapter_slot=773</link>
-      <description>一人之下 - 包子漫画 - 738 命名</description>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.baozimh.com/user/page_direct?comic_id=yirenzhixia-dongmantang&amp;section_slot=0&amp;chapter_slot=773</guid>
     </item>
   </channel>
 </rss>
