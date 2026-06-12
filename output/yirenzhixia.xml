@@ -5,8 +5,15 @@
     <link>https://www.baozimh.com/comic/yirenzhixia-dongmantang</link>
     <description>一人之下漫画更新订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 12 Jun 2026 00:17:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 05:47:04 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/qijin-3/localRSS/main/output/yirenzhixia.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>766 反殺</title>
+      <link>https://www.baozimh.com/user/page_direct?comic_id=yirenzhixia-dongmantang&amp;section_slot=0&amp;chapter_slot=803</link>
+      <description>一人之下 - 包子漫画 - 766 反殺</description>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.baozimh.com/user/page_direct?comic_id=yirenzhixia-dongmantang&amp;section_slot=0&amp;chapter_slot=803</guid>
+    </item>
     <item>
       <title>765 將軍</title>
       <link>https://www.baozimh.com/user/page_direct?comic_id=yirenzhixia-dongmantang&amp;section_slot=0&amp;chapter_slot=802</link>
@@ -139,13 +146,6 @@
       <description>一人之下 - 包子漫画 - 748 變態</description>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.baozimh.com/user/page_direct?comic_id=yirenzhixia-dongmantang&amp;section_slot=0&amp;chapter_slot=784</guid>
-    </item>
-    <item>
-      <title>747 嚮導</title>
-      <link>https://www.baozimh.com/user/page_direct?comic_id=yirenzhixia-dongmantang&amp;section_slot=0&amp;chapter_slot=783</link>
-      <description>一人之下 - 包子漫画 - 747 嚮導</description>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.baozimh.com/user/page_direct?comic_id=yirenzhixia-dongmantang&amp;section_slot=0&amp;chapter_slot=783</guid>
     </item>
   </channel>
 </rss>
