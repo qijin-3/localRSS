@@ -36,7 +36,7 @@ def run_source(source_file):
             [sys.executable, str(source_file)],
             capture_output=True,
             text=True,
-            timeout=30
+            timeout=120
         )
         
         # 输出标准输出

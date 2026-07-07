@@ -17,6 +17,8 @@ import os
 SOURCE_URL = "https://indiefront.cn/articles/"
 RSS_FILENAME = "indiefront.xml"
 MAX_ARTICLES = 30
+# 详情页摘要只抓前 N 篇(每篇一次网络请求,过多会导致 GitHub Actions 超时)
+MAX_DESCRIPTIONS = 8
 
 # RSS元数据
 RSS_TITLE = "独立开发前线"
@@ -201,16 +203,21 @@ def main():
 
     print(f"找到 {len(articles)} 篇文章")
 
-    # 抓取每篇文章的摘要(限制并发影响,逐个抓取)
-    print("正在获取文章摘要...")
-    for i, article in enumerate(articles):
-        desc = fetch_description(article['link'])
-        if desc:
-            article['description'] = desc
-        else:
-            article['description'] = article['title']
-        if (i + 1) % 5 == 0:
-            print(f"  已处理 {i + 1}/{len(articles)}")
+    # 只为前 N 篇抓取详情页摘要(避免请求过多导致 CI 超时)
+    # 其余文章用标题作为 description
+    for article in articles:
+        article['description'] = article['title']
+
+    print(f"正在获取文章摘要(前 {min(MAX_DESCRIPTIONS, len(articles))} 篇)...")
+    for i, article in enumerate(articles[:MAX_DESCRIPTIONS]):
+        try:
+            desc = fetch_description(article['link'])
+            if desc:
+                article['description'] = desc
+        except Exception as e:
+            print(f"警告: 获取摘要失败 {article['link']} - {e}", file=sys.stderr)
+        if (i + 1) % 4 == 0:
+            print(f"  已处理 {i + 1}/{min(MAX_DESCRIPTIONS, len(articles))}")
 
     print("正在生成RSS...")
     rss = generate_rss(articles)
