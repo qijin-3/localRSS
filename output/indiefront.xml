@@ -5,7 +5,7 @@
     <link>https://indiefront.cn/articles/</link>
     <description>发现优秀的独立产品与开发者 - indiefront.cn 文章订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 07 Jul 2026 11:47:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 14:27:54 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/qijin-3/localRSS/main/output/indiefront.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>功能更新：个人设置页面</title>
@@ -37,13 +37,6 @@
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr5ywoxt00089zcqrdvbiizj/</guid>
     </item>
     <item>
-      <title>独立开发者最大的错误：把所有希望押在一个想法上</title>
-      <link>https://indiefront.cn/articles/cmr8sh0v702c1fyx7dthizf6g/</link>
-      <description>![图片](images/640-37.png) 前段时间看到知名独立开发者Tibo的一段分享，如何打造百万美金估值的Saas，很有启发，也分享给你。 Tibo已经成功打造了5款价值百万美金的Saas...</description>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sh0v702c1fyx7dthizf6g/</guid>
-    </item>
-    <item>
       <title>独立开发者支付平台深度评测：9大平台全维度对比（2026版）</title>
       <link>https://indiefront.cn/articles/cmr8sh0qf02bzfyx7awgsu1xe/</link>
       <description>一、核心概念：MoR vs PSP，你必须先搞懂 在开始对比前，有一个概念必须清楚——它直接决定了你需要承担多少法律和税务责任。 | 维度 | MoR（Merchant of Record） | PS...</description>
@@ -67,7 +60,7 @@
     <item>
       <title>我做了款产品，1000人下载、60人付费，数据惨不忍睹，但用户都说好｜专访独立开发者刚子</title>
       <link>https://indiefront.cn/articles/cmr8sh05l02btfyx7opwsls3e/</link>
-      <description>我做了款产品，1000人下载、60人付费，数据惨不忍睹，但用户都说好｜专访独立开发者刚子</description>
+      <description>![图片](images/640-53.png) 今天采访的独立开发者是刚子，他的产品「订阅宝」是一款 iOS 原生的周期付费管理 App。 刚子本职是 Web 前端开发工程师，业余折腾独立开发已经十...</description>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sh05l02btfyx7opwsls3e/</guid>
     </item>
@@ -142,6 +135,13 @@
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgyjj02b9fyx74mi0kk0b/</guid>
     </item>
     <item>
+      <title>行程一下-旅行玩法生成器</title>
+      <link>https://indiefront.cn/articles/cmr8sgyev02b7fyx7epjkkk9o/</link>
+      <description>行程一下-旅行玩法生成器</description>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgyev02b7fyx7epjkkk9o/</guid>
+    </item>
+    <item>
       <title>给同样被海外 API 折磨的独立开发者：分享一个自己在用的中转站「彼源」</title>
       <link>https://indiefront.cn/articles/cmr8sgy7g02b5fyx7o2m4z8hf/</link>
       <description>给同样被海外 API 折磨的独立开发者：分享一个自己在用的中转站「彼源」</description>
@@ -184,13 +184,6 @@
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgxb902avfyx7nqf9jg0g/</guid>
     </item>
     <item>
-      <title>行程一下-旅行玩法生成器</title>
-      <link>https://indiefront.cn/articles/cmr8sgyev02b7fyx7epjkkk9o/</link>
-      <description>行程一下-旅行玩法生成器</description>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgyev02b7fyx7epjkkk9o/</guid>
-    </item>
-    <item>
       <title>Detector de IA：从粘贴文本到逐句复核的西语 AI 检测工具</title>
       <link>https://indiefront.cn/articles/cmr8sgx5z02atfyx77ir0m757/</link>
       <description>Detector de IA：从粘贴文本到逐句复核的西语 AI 检测工具</description>
@@ -217,6 +210,13 @@
       <description>出海基础设施的「最后一公里」：为什么指纹浏览器正在重新定义账号安全？</description>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgwom02anfyx7mjj4gkvl/</guid>
+    </item>
+    <item>
+      <title>Clibo：一个本地优先的 Mac 剪贴板管理工具</title>
+      <link>https://indiefront.cn/articles/cmr8sgwha02alfyx72hnzwqt8/</link>
+      <description>Clibo：一个本地优先的 Mac 剪贴板管理工具</description>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgwha02alfyx72hnzwqt8/</guid>
     </item>
   </channel>
 </rss>
