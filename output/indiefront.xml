@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>独立开发前线</title>
+    <link>https://indiefront.cn/articles/</link>
+    <description>发现优秀的独立产品与开发者 - indiefront.cn 文章订阅</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 07 Jul 2026 14:17:35 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/qijin-3/localRSS/main/output/indiefront.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>功能更新：个人设置页面</title>
+      <link>https://indiefront.cn/articles/cmr8ri1ix001f9zw223zybkwn/</link>
+      <description>现在可以修改自己的昵称，头像和自定义 URL 了。</description>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8ri1ix001f9zw223zybkwn/</guid>
+    </item>
+    <item>
+      <title>社区发布后，开始渐渐有访问量了</title>
+      <link>https://indiefront.cn/articles/cmr7a7ogo000v9zw2jwz3t4x5/</link>
+      <description>记录 MZFOSS 上线的小故事</description>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr7a7ogo000v9zw2jwz3t4x5/</guid>
+    </item>
+    <item>
+      <title>独立开发者最大的错误：把所有希望押在一个想法上</title>
+      <link>https://indiefront.cn/articles/cmr5zaxcw00039zuacy90wpgh/</link>
+      <description>前段时间看到知名独立开发者Tibo的一段分享，如何打造百万美金估值的Saas，很有启发，也分享给你。</description>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr5zaxcw00039zuacy90wpgh/</guid>
+    </item>
+    <item>
+      <title>How to Make a Custom Song for Someone: Ideas, Methods, and Examples</title>
+      <link>https://indiefront.cn/articles/cmr5ywoxt00089zcqrdvbiizj/</link>
+      <description>- A custom song works best when it is tied to one person, one relationship, and one emotional moment.
+- The most common occasions are birthdays, anniversaries, weddings, Valentine's Day, Mother's Day,...</description>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr5ywoxt00089zcqrdvbiizj/</guid>
+    </item>
+    <item>
+      <title>独立开发者最大的错误：把所有希望押在一个想法上</title>
+      <link>https://indiefront.cn/articles/cmr8sh0v702c1fyx7dthizf6g/</link>
+      <description>![图片](images/640-37.png) 前段时间看到知名独立开发者Tibo的一段分享，如何打造百万美金估值的Saas，很有启发，也分享给你。 Tibo已经成功打造了5款价值百万美金的Saas...</description>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sh0v702c1fyx7dthizf6g/</guid>
+    </item>
+    <item>
+      <title>独立开发者支付平台深度评测：9大平台全维度对比（2026版）</title>
+      <link>https://indiefront.cn/articles/cmr8sh0qf02bzfyx7awgsu1xe/</link>
+      <description>一、核心概念：MoR vs PSP，你必须先搞懂 在开始对比前，有一个概念必须清楚——它直接决定了你需要承担多少法律和税务责任。 | 维度 | MoR（Merchant of Record） | PS...</description>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sh0qf02bzfyx7awgsu1xe/</guid>
+    </item>
+    <item>
+      <title>独立开发者亲述：我投广告亏大了，但 SEO 帮我拿下了 8000 用户｜Evan专访</title>
+      <link>https://indiefront.cn/articles/cmr8sh0iz02bxfyx7y3kh14xv/</link>
+      <description>![图片](images/640-44.png) 你好！我是欧维，本期我们的采访对象是Evan，他是一名全职的独立开发者，BeMusic AI的创始人，这款产品目前上线3个月，注册用户8000+，日活...</description>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sh0iz02bxfyx7y3kh14xv/</guid>
+    </item>
+    <item>
+      <title>每天睡4小时、用1周做出来的出海模板，现在月入1-3万｜专访独立开发者Kevin</title>
+      <link>https://indiefront.cn/articles/cmr8sh0e502bvfyx77n4syr0l/</link>
+      <description>![图片](images/640-54.png) 你好！我是欧维，本期我们的采访对象是IndieMaker Kevin，他的产品是NuxtPro：一款基于Nuxt3的开源企业级SaaS模板。目前月入1...</description>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sh0e502bvfyx77n4syr0l/</guid>
+    </item>
+    <item>
+      <title>我做了款产品，1000人下载、60人付费，数据惨不忍睹，但用户都说好｜专访独立开发者刚子</title>
+      <link>https://indiefront.cn/articles/cmr8sh05l02btfyx7opwsls3e/</link>
+      <description>![图片](images/640-53.png) 今天采访的独立开发者是刚子，他的产品「订阅宝」是一款 iOS 原生的周期付费管理 App。 刚子本职是 Web 前端开发工程师，业余折腾独立开发已经十...</description>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sh05l02btfyx7opwsls3e/</guid>
+    </item>
+    <item>
+      <title>副业做独立开发，上线不到一个月营收800$，他是怎么做到的？</title>
+      <link>https://indiefront.cn/articles/cmr8sh00p02brfyx7xwrktych/</link>
+      <description>![图片](images/640-46.png) 你好！我是欧维，今天我采访的是独立开发者Cerebellum。   他开发了一款macOS原生剪贴板管理工具Clibo，解决了macOS系统剪贴板只能...</description>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sh00p02brfyx7xwrktych/</guid>
+    </item>
+    <item>
+      <title>别再疯狂写文章了，真正影响SEO排名的是这一件事</title>
+      <link>https://indiefront.cn/articles/cmr8sgzt802bpfyx79avvm1cl/</link>
+      <description>![图片](images/640-48.png) 最近实践了1了SEO策略，非常有效，在这里分享给大家。 这个策略也很简单，就是通过内链来优化SEO排名。 一共有3个步骤：  第1步：找到精准长尾词 ...</description>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgzt802bpfyx79avvm1cl/</guid>
+    </item>
+    <item>
+      <title>做了11个App、被"毕业"后靠独立开发活下来，他说：该放弃就放弃｜专访App君</title>
+      <link>https://indiefront.cn/articles/cmr8sgzoh02bnfyx7d5c06qa9/</link>
+      <description>![图片](images/640-45.png) 你好！我是欧维，本期我们的采访对象是App君，这位开发者非常厉害，他一共开发了11个App，其中不乏知名产品。 目前最新的产品是西瓜备份App，一款可...</description>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgzoh02bnfyx7d5c06qa9/</guid>
+    </item>
+    <item>
+      <title>上线8个月，月入3000：我做了一个别人不愿好好做的工具</title>
+      <link>https://indiefront.cn/articles/cmr8sgzjn02blfyx7ztm7qtwb/</link>
+      <description>![图片](images/640-50.png) 你好！我是欧维，本期我们采访的独立开发者是BambooYang，他的产品是freesavevideo，2025年10月上线。目前有8000注册用户，月...</description>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgzjn02blfyx7ztm7qtwb/</guid>
+    </item>
+    <item>
+      <title>一个人+AI，做出月入250美金的特斯拉涂装设计工具：专访 Louis</title>
+      <link>https://indiefront.cn/articles/cmr8sgzcg02bjfyx7qebg08ga/</link>
+      <description>![图片](images/640-38.png) 你好！我是欧维，本期采访对象是Louis，他是一位独立开发者，也是特斯拉车主。他做了一款面向特斯拉车主的车身涂装/改色设计工具Tesla Wrap D...</description>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgzcg02bjfyx7qebg08ga/</guid>
+    </item>
+    <item>
+      <title>独立开发半年，他做了一个在线证件照工具，日活150，他说最难的是心态｜独立开发前线</title>
+      <link>https://indiefront.cn/articles/cmr8sgz7j02bhfyx7uz9tao0d/</link>
+      <description>![图片](images/640-36.png) 你好！我是欧维，本期采访对象是一位全职独立开发半年的开发者Felix，从 Java 转型 Next.js，目前主攻 AI 出海方向。目前独立开发半年，...</description>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgz7j02bhfyx7uz9tao0d/</guid>
+    </item>
+    <item>
+      <title>Workbuddy VS Trae Work：从调研到赚钱，谁更像真人员工？</title>
+      <link>https://indiefront.cn/articles/cmr8sgz0r02bffyx7co4nigww/</link>
+      <description>![图片](images/640-1.png) 你好！我是欧维，目前最火的AI Agent产品莫过于腾讯的WorkBuddy和字节的Trae Work了，2个我都在用。不过相信很多人都很好奇，这两款A...</description>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgz0r02bffyx7co4nigww/</guid>
+    </item>
+    <item>
+      <title>Vibe Coding爆发后，最赚钱的人可能不是开发者</title>
+      <link>https://indiefront.cn/articles/cmr8sgyvt02bdfyx78wziy2cw/</link>
+      <description>![图片](images/640.png) 今天我想分享一个话题。现在是做AI博主的最佳时机。Vibe Coding爆发后，最赚钱的人可能不是开发者。 为什么呢？因为现在Vibe Coding的能力越...</description>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgyvt02bdfyx78wziy2cw/</guid>
+    </item>
+    <item>
+      <title>RedArchive 小红书导出工具，解决收藏囤积症｜独立开发前线</title>
+      <link>https://indiefront.cn/articles/cmr8sgyqr02bbfyx77xazwtje/</link>
+      <description>![图片](images/640-34.png) 你好！我是欧维，本期我采访的是 理想是自由（程序员 / 非全职独立开发），他的产品是RedArchive，一款小红书收藏、点赞导出工具。目前产品在持续...</description>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgyqr02bbfyx77xazwtje/</guid>
+    </item>
+    <item>
+      <title>20年金融交易老炮，用AI打造自动交易程序，799美元起已卖出50多份｜独立开发者采访</title>
+      <link>https://indiefront.cn/articles/cmr8sgyjj02b9fyx74mi0kk0b/</link>
+      <description>![图片](images/640-33.png) 这期我们采访的独立开发者是Hardison，他开发了一款自动化交易金融产品的软件，产品定价799美元到2999美元不等，目前已经卖出去50多份；让我们...</description>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgyjj02b9fyx74mi0kk0b/</guid>
+    </item>
+    <item>
+      <title>给同样被海外 API 折磨的独立开发者：分享一个自己在用的中转站「彼源」</title>
+      <link>https://indiefront.cn/articles/cmr8sgy7g02b5fyx7o2m4z8hf/</link>
+      <description>大家好，潜水这个社区挺久了，今天发个帖，既是分享也是求拍砖。 我自己做产品的时候，最大的时间黑洞不是写功能，而是接国外大模型 API：办海外卡、被风控封号、429 限流、多家账号分开充值和对账……每次...</description>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgy7g02b5fyx7o2m4z8hf/</guid>
+    </item>
+    <item>
+      <title>浏览器内核级伪装与硬件虚拟化，谁才是多账号安全的真解？</title>
+      <link>https://indiefront.cn/articles/cmr8sgy2j02b3fyx7gbolplnr/</link>
+      <description>一、从风控视角看：平台凭什么判断“你是你”？ 在讨论防关联方案之前，必须先理解平台识别账号关联的链路。主流电商平台（Amazon、eBay、Shopify、Etsy）、社交媒体（Facebook、In...</description>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgy2j02b3fyx7gbolplnr/</guid>
+    </item>
+    <item>
+      <title>最靠谱的指纹浏览器是哪个？哪款指纹浏览器稳定性最好、口碑最可靠</title>
+      <link>https://indiefront.cn/articles/cmr8sgxw802b1fyx73g09l3qk/</link>
+      <description>判断一款指纹浏览器 "靠不靠谱"，不能只看广告宣传，而应综合考察四个维度：指纹质量（在目标平台的实际封号率）、产品稳定性（启动速度、并发能力、更新频率）、数据安全（加密、审计、灾备记录）、服务支持（中...</description>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgxw802b1fyx73g09l3qk/</guid>
+    </item>
+    <item>
+      <title>小红书矩阵号运营的技术基石：指纹浏览器内核级环境仿真深度解析</title>
+      <link>https://indiefront.cn/articles/cmr8sgxoo02azfyx7e2jdgl76/</link>
+      <description>一、小红书矩阵号的"幽灵"风险：同一台设备为什么不行？ 2026年，小红书月活突破4亿，内容电商GMV同比增长超过80%。无论是个人创作者、MCN机构，还是品牌自运营团队，"矩阵号"几乎成了标配打法—...</description>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgxoo02azfyx7e2jdgl76/</guid>
+    </item>
+    <item>
+      <title>做联盟营销哪款指纹浏览器好用</title>
+      <link>https://indiefront.cn/articles/cmr8sgxjp02axfyx7vkayxf8b/</link>
+      <description>联盟营销（Affiliate Marketing）的核心痛点是 "多账号、多地区、多流量来源" 的规模化运营，而平台（如 Facebook、Google、TikTok、Amazon Associate...</description>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgxjp02axfyx7vkayxf8b/</guid>
+    </item>
+    <item>
+      <title>一不小心我的APi站做到了8w月活，普通用户该怎么用Grsai站的语言画图模型？</title>
+      <link>https://indiefront.cn/articles/cmr8sgxb902avfyx7nqf9jg0g/</link>
+      <description>本文是针对非开发的普通用户接入Grsai API教程。Grsai APi提供便宜稳定的AIGC模型聚合平台，包含海外热门对话画图模型，没有中间商赚差价，我们就是APi源头供应。用最低的价格就能用上Ge...</description>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgxb902avfyx7nqf9jg0g/</guid>
+    </item>
+    <item>
+      <title>行程一下-旅行玩法生成器</title>
+      <link>https://indiefront.cn/articles/cmr8sgyev02b7fyx7epjkkk9o/</link>
+      <description>30秒生成最适合你的玩法 或者： 每个人都有属于自己的旅行方式 或者： 不知道去哪玩？先告诉我你想怎么玩 不用手动组合碎片信息，AI 自主完成需求理解 → 信息检索 → 工具调用 → 行程编排，自动生...</description>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgyev02b7fyx7epjkkk9o/</guid>
+    </item>
+    <item>
+      <title>Detector de IA：从粘贴文本到逐句复核的西语 AI 检测工具</title>
+      <link>https://indiefront.cn/articles/cmr8sgx5z02atfyx77ir0m757/</link>
+      <description>最近做了一个面向西语用户的 AI 文本与文档复核工具：Detector de IA。 这个产品不是从“再做一个检测分数”开始的。我更想解决的是一个完整工作流：用户拿着一段文本或一份文档进来，能看到哪些...</description>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgx5z02atfyx77ir0m757/</guid>
+    </item>
+    <item>
+      <title>浏览器指纹技术解密：那个你看不见的「数字身份证」，正在决定你账号的生死</title>
+      <link>https://indiefront.cn/articles/cmr8sgwyi02arfyx7bijiu1so/</link>
+      <description>一、你以为自己戴着面具，其实你裸奔了很久 互联网有一个广为人知的"错觉"：只要清除Cookie、使用无痕模式、挂上VPN，自己就是"匿名"的。 这个错觉正在让无数跨境电商卖家、社交媒体运营者、广告投放...</description>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgwyi02arfyx7bijiu1so/</guid>
+    </item>
+    <item>
+      <title>加拿大长周末 LongWeekends.org</title>
+      <link>https://indiefront.cn/articles/cmr8sgwtf02apfyx7h1yxrub6/</link>
+      <description>LongWeekends.org 是一个面向加拿大用户的免费[节假日和长周末日历](https://LongWeekends.org)网站。它帮助用户查询加拿大以及各省和地区即将到来的公共假日、法定假...</description>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgwtf02apfyx7h1yxrub6/</guid>
+    </item>
+    <item>
+      <title>出海基础设施的「最后一公里」：为什么指纹浏览器正在重新定义账号安全？</title>
+      <link>https://indiefront.cn/articles/cmr8sgwom02anfyx7mjj4gkvl/</link>
+      <description>一、出海二十年：从物流到账号，基础设施的迁移完成 中国企业的出海浪潮，已经走过了二十余年。 第一个十年里，出海的基础设施重点是"物流"——跨境支付、国际快递、海外仓储。Wish、速卖通等平台的兴起，催...</description>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgwom02anfyx7mjj4gkvl/</guid>
+    </item>
+  </channel>
+</rss>
