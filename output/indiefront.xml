@@ -5,8 +5,36 @@
     <link>https://indiefront.cn/articles/</link>
     <description>发现优秀的独立产品与开发者 - indiefront.cn 文章订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 12 Jul 2026 13:25:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 14:54:02 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/qijin-3/localRSS/main/output/indiefront.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>一条推文 88k 曝光，当天几百人注册——10 年程序员转身做了什么？</title>
+      <link>https://indiefront.cn/articles/cmrhufqs3001l9zth6rir3h98/</link>
+      <description>你好！我是欧维。本期我们的采访对象是ZhongJian，他的产品是Sendflare-一个同时支持交易电子邮件和营销邮件的发信服务。目前上线3个月，收入1k-10k；</description>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmrhufqs3001l9zth6rir3h98/</guid>
+    </item>
+    <item>
+      <title>一个人，五年开源，创造2000万价值，我却负债80万｜ 专访独立开发者万超</title>
+      <link>https://indiefront.cn/articles/cmrhua3zc001j9zthyz2qywob/</link>
+      <description>你好！我是欧维，本期我们的采访对象是独立开发者万超，他的产品是LeaferJS-AI 时代的无限画布引擎。</description>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmrhua3zc001j9zthyz2qywob/</guid>
+    </item>
+    <item>
+      <title>独立开发能不能活下去，在这一刻其实就决定了</title>
+      <link>https://indiefront.cn/articles/cmrhu393j001h9zth110uxdc3/</link>
+      <description>Notion 不是笔记类产品的发明者，Figma 也不是设计软件的首创者，Slack 更不是团队沟通类软件的鼻祖。但他们都在各自领域里面后来居上，取得了非常大的成功。</description>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmrhu393j001h9zth110uxdc3/</guid>
+    </item>
+    <item>
+      <title>周末 2 天做了个 AI 表情包工具，付费率 8%，月活 300</title>
+      <link>https://indiefront.cn/articles/cmrhtypd4001f9zthsm0dv510/</link>
+      <description>你好！我是欧维。本期我们的采访对象是独立开发者流浪土土，他的产品是表情厨房。AI 一键制作成套微信表情包以及上架表情商店需要的所有素材，5 分钟即可上架微信表情商店。</description>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmrhtypd4001f9zthsm0dv510/</guid>
+    </item>
     <item>
       <title>独立开发者狂奔滴小马：一个周末做出 md2card，月活 1.5 万，他凭什么？</title>
       <link>https://indiefront.cn/articles/cmrhts681001d9zthh5x29ypp/</link>
@@ -43,28 +71,28 @@
     <item>
       <title>做了11个App、被&quot;毕业&quot;后靠独立开发活下来，他说：该放弃就放弃｜专访App君</title>
       <link>https://indiefront.cn/articles/cmrhr9idv00159zth3p21dc5l/</link>
-      <description>你好！我是欧维，本期我们的采访对象是App君，这位开发者非常厉害，他一共开发了11个App，其中不乏知名产品。</description>
+      <description>做了11个App、被&quot;毕业&quot;后靠独立开发活下来，他说：该放弃就放弃｜专访App君</description>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmrhr9idv00159zth3p21dc5l/</guid>
     </item>
     <item>
       <title>功能更新：个人设置页面</title>
       <link>https://indiefront.cn/articles/cmr8ri1ix001f9zw223zybkwn/</link>
-      <description>现在可以修改自己的昵称，头像和自定义 URL 了。</description>
+      <description>功能更新：个人设置页面</description>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr8ri1ix001f9zw223zybkwn/</guid>
     </item>
     <item>
       <title>社区发布后，开始渐渐有访问量了</title>
       <link>https://indiefront.cn/articles/cmr7a7ogo000v9zw2jwz3t4x5/</link>
-      <description>记录 MZFOSS 上线的小故事</description>
+      <description>社区发布后，开始渐渐有访问量了</description>
       <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr7a7ogo000v9zw2jwz3t4x5/</guid>
     </item>
     <item>
       <title>独立开发者最大的错误：把所有希望押在一个想法上</title>
       <link>https://indiefront.cn/articles/cmr5zaxcw00039zuacy90wpgh/</link>
-      <description>前段时间看到知名独立开发者Tibo的一段分享，如何打造百万美金估值的Saas，很有启发，也分享给你。</description>
+      <description>独立开发者最大的错误：把所有希望押在一个想法上</description>
       <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr5zaxcw00039zuacy90wpgh/</guid>
     </item>
@@ -193,34 +221,6 @@
       <description>浏览器内核级伪装与硬件虚拟化，谁才是多账号安全的真解？</description>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgy2j02b3fyx7gbolplnr/</guid>
-    </item>
-    <item>
-      <title>最靠谱的指纹浏览器是哪个？哪款指纹浏览器稳定性最好、口碑最可靠</title>
-      <link>https://indiefront.cn/articles/cmr8sgxw802b1fyx73g09l3qk/</link>
-      <description>最靠谱的指纹浏览器是哪个？哪款指纹浏览器稳定性最好、口碑最可靠</description>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgxw802b1fyx73g09l3qk/</guid>
-    </item>
-    <item>
-      <title>小红书矩阵号运营的技术基石：指纹浏览器内核级环境仿真深度解析</title>
-      <link>https://indiefront.cn/articles/cmr8sgxoo02azfyx7e2jdgl76/</link>
-      <description>小红书矩阵号运营的技术基石：指纹浏览器内核级环境仿真深度解析</description>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgxoo02azfyx7e2jdgl76/</guid>
-    </item>
-    <item>
-      <title>做联盟营销哪款指纹浏览器好用</title>
-      <link>https://indiefront.cn/articles/cmr8sgxjp02axfyx7vkayxf8b/</link>
-      <description>做联盟营销哪款指纹浏览器好用</description>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgxjp02axfyx7vkayxf8b/</guid>
-    </item>
-    <item>
-      <title>一不小心我的APi站做到了8w月活，普通用户该怎么用Grsai站的语言画图模型？</title>
-      <link>https://indiefront.cn/articles/cmr8sgxb902avfyx7nqf9jg0g/</link>
-      <description>一不小心我的APi站做到了8w月活，普通用户该怎么用Grsai站的语言画图模型？</description>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgxb902avfyx7nqf9jg0g/</guid>
     </item>
   </channel>
 </rss>
