@@ -5,8 +5,48 @@
     <link>https://indiefront.cn/articles/</link>
     <description>发现优秀的独立产品与开发者 - indiefront.cn 文章订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 12 Jul 2026 11:57:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 13:25:56 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/qijin-3/localRSS/main/output/indiefront.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>独立开发者狂奔滴小马：一个周末做出 md2card，月活 1.5 万，他凭什么？</title>
+      <link>https://indiefront.cn/articles/cmrhts681001d9zthh5x29ypp/</link>
+      <description>你好！我是欧维，今天采访的独立开发者是狂奔滴小马。他用一个周末做出了 md2card——一款将 Markdown 一键转为小红书、公众号、抖音知识卡片的工具。上线至今，月活已达 1.5 万。他是怎么做到的？背后有哪些故事？一起来看看。</description>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmrhts681001d9zthh5x29ypp/</guid>
+    </item>
+    <item>
+      <title>每天睡4小时、用1周做出来的出海模板，现在月入1-3万｜专访独立开发者Kevin</title>
+      <link>https://indiefront.cn/articles/cmrhtlq0q001b9zthgsjkjd7x/</link>
+      <description>你好！我是欧维，本期我们的采访对象是IndieMaker Kevin，他的产品是NuxtPro：一款基于Nuxt3的开源企业级SaaS模板。目前月入1-3w；
+
+让我们看下他的独立开发故事，希望带给你启发。</description>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmrhtlq0q001b9zthgsjkjd7x/</guid>
+    </item>
+    <item>
+      <title>上线8个月，月入3000：我做了一个别人不愿好好做的工具</title>
+      <link>https://indiefront.cn/articles/cmrhth3ww00199zth69iup4y7/</link>
+      <description>你好！我是欧维，本期我们采访的独立开发者是BambooYang，他的产品是freesavevideo，2025年10月上线。目前有8000注册用户，月入3000。
+让我们看下他的独立开发故事，希望带给你启发。</description>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmrhth3ww00199zth69iup4y7/</guid>
+    </item>
+    <item>
+      <title>副业做独立开发，上线不到一个月营收800$，他是怎么做到的？</title>
+      <link>https://indiefront.cn/articles/cmrhsgmlb00179zthawdployd/</link>
+      <description>你好！我是欧维，今天我采访的是独立开发者Cerebellum。
+他开发了一款macOS原生剪贴板管理工具Clibo，解决了macOS系统剪贴板只能保存一条内容的痛点。产品刚上线不到一个月，已售出100个左右的License。
+让我们听听他的独立开发故事，希望带给你启发。</description>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmrhsgmlb00179zthawdployd/</guid>
+    </item>
+    <item>
+      <title>做了11个App、被&quot;毕业&quot;后靠独立开发活下来，他说：该放弃就放弃｜专访App君</title>
+      <link>https://indiefront.cn/articles/cmrhr9idv00159zth3p21dc5l/</link>
+      <description>你好！我是欧维，本期我们的采访对象是App君，这位开发者非常厉害，他一共开发了11个App，其中不乏知名产品。</description>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmrhr9idv00159zth3p21dc5l/</guid>
+    </item>
     <item>
       <title>功能更新：个人设置页面</title>
       <link>https://indiefront.cn/articles/cmr8ri1ix001f9zw223zybkwn/</link>
@@ -31,36 +71,35 @@
     <item>
       <title>How to Make a Custom Song for Someone: Ideas, Methods, and Examples</title>
       <link>https://indiefront.cn/articles/cmr5ywoxt00089zcqrdvbiizj/</link>
-      <description>- A custom song works best when it is tied to one person, one relationship, and one emotional moment.
-- The most common occasions are birthdays, anniversaries, weddings, Valentine's Day, Mother's Day,...</description>
+      <description>How to Make a Custom Song for Someone: Ideas, Methods, and Examples</description>
       <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr5ywoxt00089zcqrdvbiizj/</guid>
     </item>
     <item>
       <title>独立开发者支付平台深度评测：9大平台全维度对比（2026版）</title>
       <link>https://indiefront.cn/articles/cmr8sh0qf02bzfyx7awgsu1xe/</link>
-      <description>一、核心概念：MoR vs PSP，你必须先搞懂 在开始对比前，有一个概念必须清楚——它直接决定了你需要承担多少法律和税务责任。 | 维度 | MoR（Merchant of Record） | PS...</description>
+      <description>独立开发者支付平台深度评测：9大平台全维度对比（2026版）</description>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sh0qf02bzfyx7awgsu1xe/</guid>
     </item>
     <item>
       <title>独立开发者亲述：我投广告亏大了，但 SEO 帮我拿下了 8000 用户｜Evan专访</title>
       <link>https://indiefront.cn/articles/cmr8sh0iz02bxfyx7y3kh14xv/</link>
-      <description>![图片](images/640-44.png) 你好！我是欧维，本期我们的采访对象是Evan，他是一名全职的独立开发者，BeMusic AI的创始人，这款产品目前上线3个月，注册用户8000+，日活...</description>
+      <description>独立开发者亲述：我投广告亏大了，但 SEO 帮我拿下了 8000 用户｜Evan专访</description>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sh0iz02bxfyx7y3kh14xv/</guid>
     </item>
     <item>
       <title>每天睡4小时、用1周做出来的出海模板，现在月入1-3万｜专访独立开发者Kevin</title>
       <link>https://indiefront.cn/articles/cmr8sh0e502bvfyx77n4syr0l/</link>
-      <description>![图片](images/640-54.png) 你好！我是欧维，本期我们的采访对象是IndieMaker Kevin，他的产品是NuxtPro：一款基于Nuxt3的开源企业级SaaS模板。目前月入1...</description>
+      <description>每天睡4小时、用1周做出来的出海模板，现在月入1-3万｜专访独立开发者Kevin</description>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sh0e502bvfyx77n4syr0l/</guid>
     </item>
     <item>
       <title>我做了款产品，1000人下载、60人付费，数据惨不忍睹，但用户都说好｜专访独立开发者刚子</title>
       <link>https://indiefront.cn/articles/cmr8sh05l02btfyx7opwsls3e/</link>
-      <description>![图片](images/640-53.png) 今天采访的独立开发者是刚子，他的产品「订阅宝」是一款 iOS 原生的周期付费管理 App。 刚子本职是 Web 前端开发工程师，业余折腾独立开发已经十...</description>
+      <description>我做了款产品，1000人下载、60人付费，数据惨不忍睹，但用户都说好｜专访独立开发者刚子</description>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sh05l02btfyx7opwsls3e/</guid>
     </item>
@@ -182,41 +221,6 @@
       <description>一不小心我的APi站做到了8w月活，普通用户该怎么用Grsai站的语言画图模型？</description>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgxb902avfyx7nqf9jg0g/</guid>
-    </item>
-    <item>
-      <title>Detector de IA：从粘贴文本到逐句复核的西语 AI 检测工具</title>
-      <link>https://indiefront.cn/articles/cmr8sgx5z02atfyx77ir0m757/</link>
-      <description>Detector de IA：从粘贴文本到逐句复核的西语 AI 检测工具</description>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgx5z02atfyx77ir0m757/</guid>
-    </item>
-    <item>
-      <title>浏览器指纹技术解密：那个你看不见的「数字身份证」，正在决定你账号的生死</title>
-      <link>https://indiefront.cn/articles/cmr8sgwyi02arfyx7bijiu1so/</link>
-      <description>浏览器指纹技术解密：那个你看不见的「数字身份证」，正在决定你账号的生死</description>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgwyi02arfyx7bijiu1so/</guid>
-    </item>
-    <item>
-      <title>加拿大长周末 LongWeekends.org</title>
-      <link>https://indiefront.cn/articles/cmr8sgwtf02apfyx7h1yxrub6/</link>
-      <description>加拿大长周末 LongWeekends.org</description>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgwtf02apfyx7h1yxrub6/</guid>
-    </item>
-    <item>
-      <title>出海基础设施的「最后一公里」：为什么指纹浏览器正在重新定义账号安全？</title>
-      <link>https://indiefront.cn/articles/cmr8sgwom02anfyx7mjj4gkvl/</link>
-      <description>出海基础设施的「最后一公里」：为什么指纹浏览器正在重新定义账号安全？</description>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgwom02anfyx7mjj4gkvl/</guid>
-    </item>
-    <item>
-      <title>Clibo：一个本地优先的 Mac 剪贴板管理工具</title>
-      <link>https://indiefront.cn/articles/cmr8sgwha02alfyx72hnzwqt8/</link>
-      <description>Clibo：一个本地优先的 Mac 剪贴板管理工具</description>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgwha02alfyx72hnzwqt8/</guid>
     </item>
   </channel>
 </rss>
