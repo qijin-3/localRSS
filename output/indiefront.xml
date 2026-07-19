@@ -5,8 +5,15 @@
     <link>https://indiefront.cn/articles/</link>
     <description>发现优秀的独立产品与开发者 - indiefront.cn 文章订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 19 Jul 2026 05:49:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 08:12:29 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/qijin-3/localRSS/main/output/indiefront.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>因为没时间给女儿讲睡前故事，他做了一款App｜专访独立开发者江奕龙</title>
+      <link>https://indiefront.cn/articles/cmrrg0zmy002g9zthabtbqs94/</link>
+      <description>你好！我是欧维，今天我们采访的独立开发者是江奕龙，他的产品是拾芽App，一款可以把孩子每天的小事变成睡前故事的App。非常实用且有趣。</description>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmrrg0zmy002g9zthabtbqs94/</guid>
+    </item>
     <item>
       <title>一条推文 88k 曝光，当天几百人注册——10 年程序员转身做了什么？</title>
       <link>https://indiefront.cn/articles/cmrhufqs3001l9zth6rir3h98/</link>
@@ -62,9 +69,7 @@
     <item>
       <title>副业做独立开发，上线不到一个月营收800$，他是怎么做到的？</title>
       <link>https://indiefront.cn/articles/cmrhsgmlb00179zthawdployd/</link>
-      <description>你好！我是欧维，今天我采访的是独立开发者Cerebellum。
-他开发了一款macOS原生剪贴板管理工具Clibo，解决了macOS系统剪贴板只能保存一条内容的痛点。产品刚上线不到一个月，已售出100个左右的License。
-让我们听听他的独立开发故事，希望带给你启发。</description>
+      <description>副业做独立开发，上线不到一个月营收800$，他是怎么做到的？</description>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmrhsgmlb00179zthawdployd/</guid>
     </item>
@@ -214,13 +219,6 @@
       <description>给同样被海外 API 折磨的独立开发者：分享一个自己在用的中转站「彼源」</description>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgy7g02b5fyx7o2m4z8hf/</guid>
-    </item>
-    <item>
-      <title>浏览器内核级伪装与硬件虚拟化，谁才是多账号安全的真解？</title>
-      <link>https://indiefront.cn/articles/cmr8sgy2j02b3fyx7gbolplnr/</link>
-      <description>浏览器内核级伪装与硬件虚拟化，谁才是多账号安全的真解？</description>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgy2j02b3fyx7gbolplnr/</guid>
     </item>
   </channel>
 </rss>
