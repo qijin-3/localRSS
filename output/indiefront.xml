@@ -5,8 +5,15 @@
     <link>https://indiefront.cn/articles/</link>
     <description>发现优秀的独立产品与开发者 - indiefront.cn 文章订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 20 Jul 2026 19:51:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 21:09:50 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/qijin-3/localRSS/main/output/indiefront.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>我把“继续收录产品”停了：BitShovel 前 17 位活跃用户的真实增长记录</title>
+      <link>https://indiefront.cn/articles/cmrtnfel7002u9zthbn30xybp/</link>
+      <description>BitShovel 最初把收录量当成进度，结果目录访问不少，却几乎没有产品动作。我冻结新增产品，把“活跃”定义为至少两次事件且完成一次详情、来源、反馈或分享行为，并用前 17 位真实活跃用户的实验重新判断产品发现站该怎么增长。</description>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmrtnfel7002u9zthbn30xybp/</guid>
+    </item>
     <item>
       <title>因为没时间给女儿讲睡前故事，他做了一款App｜专访独立开发者江奕龙</title>
       <link>https://indiefront.cn/articles/cmrrg0zmy002g9zthabtbqs94/</link>
@@ -61,8 +68,7 @@
     <item>
       <title>上线8个月，月入3000：我做了一个别人不愿好好做的工具</title>
       <link>https://indiefront.cn/articles/cmrhth3ww00199zth69iup4y7/</link>
-      <description>你好！我是欧维，本期我们采访的独立开发者是BambooYang，他的产品是freesavevideo，2025年10月上线。目前有8000注册用户，月入3000。
-让我们看下他的独立开发故事，希望带给你启发。</description>
+      <description>上线8个月，月入3000：我做了一个别人不愿好好做的工具</description>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmrhth3ww00199zth69iup4y7/</guid>
     </item>
@@ -212,13 +218,6 @@
       <description>行程一下-旅行玩法生成器</description>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgyev02b7fyx7epjkkk9o/</guid>
-    </item>
-    <item>
-      <title>给同样被海外 API 折磨的独立开发者：分享一个自己在用的中转站「彼源」</title>
-      <link>https://indiefront.cn/articles/cmr8sgy7g02b5fyx7o2m4z8hf/</link>
-      <description>给同样被海外 API 折磨的独立开发者：分享一个自己在用的中转站「彼源」</description>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgy7g02b5fyx7o2m4z8hf/</guid>
     </item>
   </channel>
 </rss>
