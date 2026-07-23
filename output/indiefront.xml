@@ -5,8 +5,15 @@
     <link>https://indiefront.cn/articles/</link>
     <description>发现优秀的独立产品与开发者 - indiefront.cn 文章订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 23 Jul 2026 00:08:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 04:13:34 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/qijin-3/localRSS/main/output/indiefront.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>产品页面最容易缺失的，是“这次没有验证什么”</title>
+      <link>https://indiefront.cn/articles/cmrwwlquu00359zthspccupdq/</link>
+      <description>一篇产品介绍如果只写功能和优点，读者仍然不知道哪些内容来自官方、哪些经过实际检查。把核验边界写清楚，能让有限的研究更可信，也让后续纠错更容易。</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmrwwlquu00359zthspccupdq/</guid>
+    </item>
     <item>
       <title>判断一个陌生产品值不值得继续了解，我会先看这四个信号</title>
       <link>https://indiefront.cn/articles/cmrtnfel7002u9zthbn30xybp/</link>
@@ -59,9 +66,7 @@
     <item>
       <title>每天睡4小时、用1周做出来的出海模板，现在月入1-3万｜专访独立开发者Kevin</title>
       <link>https://indiefront.cn/articles/cmrhtlq0q001b9zthgsjkjd7x/</link>
-      <description>你好！我是欧维，本期我们的采访对象是IndieMaker Kevin，他的产品是NuxtPro：一款基于Nuxt3的开源企业级SaaS模板。目前月入1-3w；
-
-让我们看下他的独立开发故事，希望带给你启发。</description>
+      <description>每天睡4小时、用1周做出来的出海模板，现在月入1-3万｜专访独立开发者Kevin</description>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmrhtlq0q001b9zthgsjkjd7x/</guid>
     </item>
@@ -211,13 +216,6 @@
       <description>20年金融交易老炮，用AI打造自动交易程序，799美元起已卖出50多份｜独立开发者采访</description>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgyjj02b9fyx74mi0kk0b/</guid>
-    </item>
-    <item>
-      <title>行程一下-旅行玩法生成器</title>
-      <link>https://indiefront.cn/articles/cmr8sgyev02b7fyx7epjkkk9o/</link>
-      <description>行程一下-旅行玩法生成器</description>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgyev02b7fyx7epjkkk9o/</guid>
     </item>
   </channel>
 </rss>
