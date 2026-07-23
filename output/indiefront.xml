@@ -5,8 +5,15 @@
     <link>https://indiefront.cn/articles/</link>
     <description>发现优秀的独立产品与开发者 - indiefront.cn 文章订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 23 Jul 2026 07:31:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 10:20:04 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/qijin-3/localRSS/main/output/indiefront.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SpookSeek AR：把 iPhone 变成幽灵探测器，亮点不只是一层特效</title>
+      <link>https://indiefront.cn/articles/cmrxbqf0a00379zth1r5ffpq0/</link>
+      <description>SpookSeek AR 是一款 iPhone 增强现实捉鬼游戏，通过摄像头、陀螺仪和移动瞄准组织扫描、锁定、收集与多人竞速。本文根据官网和 App Store 当前页面，梳理它值得关注的交互设计、已公开状态和仍需实机验证的边界。</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmrxbqf0a00379zth1r5ffpq0/</guid>
+    </item>
     <item>
       <title>产品页面最容易缺失的，是“这次没有验证什么”</title>
       <link>https://indiefront.cn/articles/cmrwwlquu00359zthspccupdq/</link>
@@ -59,7 +66,7 @@
     <item>
       <title>独立开发者狂奔滴小马：一个周末做出 md2card，月活 1.5 万，他凭什么？</title>
       <link>https://indiefront.cn/articles/cmrhts681001d9zthh5x29ypp/</link>
-      <description>你好！我是欧维，今天采访的独立开发者是狂奔滴小马。他用一个周末做出了 md2card——一款将 Markdown 一键转为小红书、公众号、抖音知识卡片的工具。上线至今，月活已达 1.5 万。他是怎么做到的？背后有哪些故事？一起来看看。</description>
+      <description>独立开发者狂奔滴小马：一个周末做出 md2card，月活 1.5 万，他凭什么？</description>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmrhts681001d9zthh5x29ypp/</guid>
     </item>
@@ -209,13 +216,6 @@
       <description>RedArchive 小红书导出工具，解决收藏囤积症｜独立开发前线</description>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgyqr02bbfyx77xazwtje/</guid>
-    </item>
-    <item>
-      <title>20年金融交易老炮，用AI打造自动交易程序，799美元起已卖出50多份｜独立开发者采访</title>
-      <link>https://indiefront.cn/articles/cmr8sgyjj02b9fyx74mi0kk0b/</link>
-      <description>20年金融交易老炮，用AI打造自动交易程序，799美元起已卖出50多份｜独立开发者采访</description>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgyjj02b9fyx74mi0kk0b/</guid>
     </item>
   </channel>
 </rss>
