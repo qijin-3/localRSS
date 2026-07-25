@@ -5,8 +5,15 @@
     <link>https://indiefront.cn/articles/</link>
     <description>发现优秀的独立产品与开发者 - indiefront.cn 文章订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 25 Jul 2026 04:09:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 07:13:01 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/qijin-3/localRSS/main/output/indiefront.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>关于养殖规划器的开发初衷</title>
+      <link>https://indiefront.cn/articles/cmrzwt1mt003c9zthi8ckneku/</link>
+      <description>简要说明下为什么要开发这个工具 以及 这个工具具体可以怎样帮助到你</description>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmrzwt1mt003c9zthi8ckneku/</guid>
+    </item>
     <item>
       <title>SpookSeek AR：把 iPhone 变成幽灵探测器，亮点不只是一层特效</title>
       <link>https://indiefront.cn/articles/cmrxbqf0a00379zth1r5ffpq0/</link>
@@ -59,7 +66,7 @@
     <item>
       <title>周末 2 天做了个 AI 表情包工具，付费率 8%，月活 300</title>
       <link>https://indiefront.cn/articles/cmrhtypd4001f9zthsm0dv510/</link>
-      <description>你好！我是欧维。本期我们的采访对象是独立开发者流浪土土，他的产品是表情厨房。AI 一键制作成套微信表情包以及上架表情商店需要的所有素材，5 分钟即可上架微信表情商店。</description>
+      <description>周末 2 天做了个 AI 表情包工具，付费率 8%，月活 300</description>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmrhtypd4001f9zthsm0dv510/</guid>
     </item>
@@ -209,13 +216,6 @@
       <description>Vibe Coding爆发后，最赚钱的人可能不是开发者</description>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgyvt02bdfyx78wziy2cw/</guid>
-    </item>
-    <item>
-      <title>RedArchive 小红书导出工具，解决收藏囤积症｜独立开发前线</title>
-      <link>https://indiefront.cn/articles/cmr8sgyqr02bbfyx77xazwtje/</link>
-      <description>RedArchive 小红书导出工具，解决收藏囤积症｜独立开发前线</description>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgyqr02bbfyx77xazwtje/</guid>
     </item>
   </channel>
 </rss>
