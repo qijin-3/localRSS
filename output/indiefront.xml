@@ -5,8 +5,15 @@
     <link>https://indiefront.cn/articles/</link>
     <description>发现优秀的独立产品与开发者 - indiefront.cn 文章订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 26 Jul 2026 13:15:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 15:02:45 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/qijin-3/localRSS/main/output/indiefront.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>别人一年做10个App，他4年只做了&quot;一杯咖啡&quot;｜专访独立开发者风华</title>
+      <link>https://indiefront.cn/articles/cms1vksbl003e9zthry06wv4q/</link>
+      <description>本期我们采访的独立开发者是风华，他是一名全职开发者，也是长期深耕咖啡行业的独立开发者。</description>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cms1vksbl003e9zthry06wv4q/</guid>
+    </item>
     <item>
       <title>关于养殖规划器的开发初衷</title>
       <link>https://indiefront.cn/articles/cmrzwt1mt003c9zthi8ckneku/</link>
@@ -59,7 +66,7 @@
     <item>
       <title>独立开发能不能活下去，在这一刻其实就决定了</title>
       <link>https://indiefront.cn/articles/cmrhu393j001h9zth110uxdc3/</link>
-      <description>Notion 不是笔记类产品的发明者，Figma 也不是设计软件的首创者，Slack 更不是团队沟通类软件的鼻祖。但他们都在各自领域里面后来居上，取得了非常大的成功。</description>
+      <description>独立开发能不能活下去，在这一刻其实就决定了</description>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmrhu393j001h9zth110uxdc3/</guid>
     </item>
@@ -209,13 +216,6 @@
       <description>Workbuddy VS Trae Work：从调研到赚钱，谁更像真人员工？</description>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgz0r02bffyx7co4nigww/</guid>
-    </item>
-    <item>
-      <title>Vibe Coding爆发后，最赚钱的人可能不是开发者</title>
-      <link>https://indiefront.cn/articles/cmr8sgyvt02bdfyx78wziy2cw/</link>
-      <description>Vibe Coding爆发后，最赚钱的人可能不是开发者</description>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgyvt02bdfyx78wziy2cw/</guid>
     </item>
   </channel>
 </rss>
