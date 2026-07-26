@@ -5,8 +5,43 @@
     <link>https://indiefront.cn/articles/</link>
     <description>发现优秀的独立产品与开发者 - indiefront.cn 文章订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 26 Jul 2026 15:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 16:56:46 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/qijin-3/localRSS/main/output/indiefront.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>用打字的方式学英语，他在垂直红海赛道里找到了新机会｜专访独立开发者面条</title>
+      <link>https://indiefront.cn/articles/cms1yxzpv003o9zthre0zflbl/</link>
+      <description>你好！我是欧维，本期我们采访的独立开发者是面条，他的产品是宝贝英语，目前产品上线不到1个月，已获得300+注册用户。</description>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cms1yxzpv003o9zthre0zflbl/</guid>
+    </item>
+    <item>
+      <title>上线两个月，1200次下载，月入不到1000元，他为什么还在做？</title>
+      <link>https://indiefront.cn/articles/cms1yqcp0003m9zthj6pd4zyw/</link>
+      <description>你好！我是欧维，本期我们采访的独立开发者是Trace，他的产品是知己App，一款结合日记、待办、目标、纪念日功能的App，目前上线2个月，已跑通MVP，有了第一位付费用户。</description>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cms1yqcp0003m9zthj6pd4zyw/</guid>
+    </item>
+    <item>
+      <title>采访了30多位独立开发者后，我总结了7条血泪经验</title>
+      <link>https://indiefront.cn/articles/cms1y1hlo003k9zth7ukld10y/</link>
+      <description>你好！我是欧维，这篇文章不是采访稿，而是我的一些关于独立开发，关于内容创作的思考，希望带给你一些启发，这些文字便算有意义。</description>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cms1y1hlo003k9zth7ukld10y/</guid>
+    </item>
+    <item>
+      <title>大二休学去做 AI，他一个月做出来的开源项目拿到了 600 Star｜专访独立开发者Benson</title>
+      <link>https://indiefront.cn/articles/cms1xulmd003i9zthppbf30cg/</link>
+      <description>你好！我是欧维，本期我们采访的独立开发者是Benson，他的产品是Agents Anywhere，一款用手机控制变成的Agent。</description>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cms1xulmd003i9zthppbf30cg/</guid>
+    </item>
+    <item>
+      <title>「最好有个本职工作」：一个全栈工程师的独立开发真心话｜专访独立开发者Meathill</title>
+      <link>https://indiefront.cn/articles/cms1xli9z003g9zthre8cidxb/</link>
+      <description>我是欧维，本期我们采访的独立开发者是Meathill，他的产品是Muicv：一款面向求职找工作的AI Agent。目前产品上线3个月，已经成功跑通MVP，拿到了第1个付费订单。</description>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cms1xli9z003g9zthre8cidxb/</guid>
+    </item>
     <item>
       <title>别人一年做10个App，他4年只做了&quot;一杯咖啡&quot;｜专访独立开发者风华</title>
       <link>https://indiefront.cn/articles/cms1vksbl003e9zthry06wv4q/</link>
@@ -31,35 +66,35 @@
     <item>
       <title>产品页面最容易缺失的，是“这次没有验证什么”</title>
       <link>https://indiefront.cn/articles/cmrwwlquu00359zthspccupdq/</link>
-      <description>一篇产品介绍如果只写功能和优点，读者仍然不知道哪些内容来自官方、哪些经过实际检查。把核验边界写清楚，能让有限的研究更可信，也让后续纠错更容易。</description>
+      <description>产品页面最容易缺失的，是“这次没有验证什么”</description>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmrwwlquu00359zthspccupdq/</guid>
     </item>
     <item>
       <title>判断一个陌生产品值不值得继续了解，我会先看这四个信号</title>
       <link>https://indiefront.cn/articles/cmrtnfel7002u9zthbn30xybp/</link>
-      <description>功能清单很容易写，真正有用的是原始来源、核验日期、真实截图和清楚的适用边界。本文用公开产品档案说明这四个信号如何帮助读者减少误判。</description>
+      <description>判断一个陌生产品值不值得继续了解，我会先看这四个信号</description>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmrtnfel7002u9zthbn30xybp/</guid>
     </item>
     <item>
       <title>因为没时间给女儿讲睡前故事，他做了一款App｜专访独立开发者江奕龙</title>
       <link>https://indiefront.cn/articles/cmrrg0zmy002g9zthabtbqs94/</link>
-      <description>你好！我是欧维，今天我们采访的独立开发者是江奕龙，他的产品是拾芽App，一款可以把孩子每天的小事变成睡前故事的App。非常实用且有趣。</description>
+      <description>因为没时间给女儿讲睡前故事，他做了一款App｜专访独立开发者江奕龙</description>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmrrg0zmy002g9zthabtbqs94/</guid>
     </item>
     <item>
       <title>一条推文 88k 曝光，当天几百人注册——10 年程序员转身做了什么？</title>
       <link>https://indiefront.cn/articles/cmrhufqs3001l9zth6rir3h98/</link>
-      <description>你好！我是欧维。本期我们的采访对象是ZhongJian，他的产品是Sendflare-一个同时支持交易电子邮件和营销邮件的发信服务。目前上线3个月，收入1k-10k；</description>
+      <description>一条推文 88k 曝光，当天几百人注册——10 年程序员转身做了什么？</description>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmrhufqs3001l9zth6rir3h98/</guid>
     </item>
     <item>
       <title>一个人，五年开源，创造2000万价值，我却负债80万｜ 专访独立开发者万超</title>
       <link>https://indiefront.cn/articles/cmrhua3zc001j9zthyz2qywob/</link>
-      <description>你好！我是欧维，本期我们的采访对象是独立开发者万超，他的产品是LeaferJS-AI 时代的无限画布引擎。</description>
+      <description>一个人，五年开源，创造2000万价值，我却负债80万｜ 专访独立开发者万超</description>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmrhua3zc001j9zthyz2qywob/</guid>
     </item>
@@ -181,41 +216,6 @@
       <description>别再疯狂写文章了，真正影响SEO排名的是这一件事</description>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgzt802bpfyx79avvm1cl/</guid>
-    </item>
-    <item>
-      <title>做了11个App、被&quot;毕业&quot;后靠独立开发活下来，他说：该放弃就放弃｜专访App君</title>
-      <link>https://indiefront.cn/articles/cmr8sgzoh02bnfyx7d5c06qa9/</link>
-      <description>做了11个App、被&quot;毕业&quot;后靠独立开发活下来，他说：该放弃就放弃｜专访App君</description>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgzoh02bnfyx7d5c06qa9/</guid>
-    </item>
-    <item>
-      <title>上线8个月，月入3000：我做了一个别人不愿好好做的工具</title>
-      <link>https://indiefront.cn/articles/cmr8sgzjn02blfyx7ztm7qtwb/</link>
-      <description>上线8个月，月入3000：我做了一个别人不愿好好做的工具</description>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgzjn02blfyx7ztm7qtwb/</guid>
-    </item>
-    <item>
-      <title>一个人+AI，做出月入250美金的特斯拉涂装设计工具：专访 Louis</title>
-      <link>https://indiefront.cn/articles/cmr8sgzcg02bjfyx7qebg08ga/</link>
-      <description>一个人+AI，做出月入250美金的特斯拉涂装设计工具：专访 Louis</description>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgzcg02bjfyx7qebg08ga/</guid>
-    </item>
-    <item>
-      <title>独立开发半年，他做了一个在线证件照工具，日活150，他说最难的是心态｜独立开发前线</title>
-      <link>https://indiefront.cn/articles/cmr8sgz7j02bhfyx7uz9tao0d/</link>
-      <description>独立开发半年，他做了一个在线证件照工具，日活150，他说最难的是心态｜独立开发前线</description>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgz7j02bhfyx7uz9tao0d/</guid>
-    </item>
-    <item>
-      <title>Workbuddy VS Trae Work：从调研到赚钱，谁更像真人员工？</title>
-      <link>https://indiefront.cn/articles/cmr8sgz0r02bffyx7co4nigww/</link>
-      <description>Workbuddy VS Trae Work：从调研到赚钱，谁更像真人员工？</description>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sgz0r02bffyx7co4nigww/</guid>
     </item>
   </channel>
 </rss>
