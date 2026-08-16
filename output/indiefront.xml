@@ -5,8 +5,15 @@
     <link>https://indiefront.cn/articles/</link>
     <description>发现优秀的独立产品与开发者 - indiefront.cn 文章订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 16 Aug 2026 09:23:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 10:20:03 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/qijin-3/localRSS/main/output/indiefront.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>专注就能养鸡，放弃鸡就会挂｜专访「小鸡专注」创始人谭伟</title>
+      <link>https://indiefront.cn/articles/cmsvnjstm005r9zth4h479pu2/</link>
+      <description>番茄钟 + 养成游戏 = ？今天采访的独立开发者谭伟给出了一个有趣的答案——「小鸡专注」（ChickFocus）。这款全球累计下载超80万的产品，用一只会死的小鸡，让专注这件事变得不再枯燥。</description>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmsvnjstm005r9zth4h479pu2/</guid>
+    </item>
     <item>
       <title>GoGBA 上架半年记</title>
       <link>https://indiefront.cn/articles/cmsfxqgeq00439zth5jueym3r/</link>
@@ -59,7 +66,7 @@
     <item>
       <title>关于养殖规划器的开发初衷</title>
       <link>https://indiefront.cn/articles/cmrzwt1mt003c9zthi8ckneku/</link>
-      <description>简要说明下为什么要开发这个工具 以及 这个工具具体可以怎样帮助到你</description>
+      <description>关于养殖规划器的开发初衷</description>
       <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmrzwt1mt003c9zthi8ckneku/</guid>
     </item>
@@ -209,13 +216,6 @@
       <description>我做了款产品，1000人下载、60人付费，数据惨不忍睹，但用户都说好｜专访独立开发者刚子</description>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sh05l02btfyx7opwsls3e/</guid>
-    </item>
-    <item>
-      <title>副业做独立开发，上线不到一个月营收800$，他是怎么做到的？</title>
-      <link>https://indiefront.cn/articles/cmr8sh00p02brfyx7xwrktych/</link>
-      <description>副业做独立开发，上线不到一个月营收800$，他是怎么做到的？</description>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sh00p02brfyx7xwrktych/</guid>
     </item>
   </channel>
 </rss>
