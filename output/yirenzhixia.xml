@@ -5,8 +5,15 @@
     <link>https://www.baozimh.com/comic/yirenzhixia-dongmantang</link>
     <description>一人之下漫画更新订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 04 Sep 2026 10:34:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 14:46:03 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/qijin-3/localRSS/main/output/yirenzhixia.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>775 來麼</title>
+      <link>https://www.baozimh.com/user/page_direct?comic_id=yirenzhixia-dongmantang&amp;section_slot=0&amp;chapter_slot=814</link>
+      <description>一人之下 - 包子漫画 - 775 來麼</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.baozimh.com/user/page_direct?comic_id=yirenzhixia-dongmantang&amp;section_slot=0&amp;chapter_slot=814</guid>
+    </item>
     <item>
       <title>774 行動</title>
       <link>https://www.baozimh.com/user/page_direct?comic_id=yirenzhixia-dongmantang&amp;section_slot=0&amp;chapter_slot=813</link>
@@ -139,13 +146,6 @@
       <description>一人之下 - 包子漫画 - 758 接觸</description>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.baozimh.com/user/page_direct?comic_id=yirenzhixia-dongmantang&amp;section_slot=0&amp;chapter_slot=795</guid>
-    </item>
-    <item>
-      <title>757 分手</title>
-      <link>https://www.baozimh.com/user/page_direct?comic_id=yirenzhixia-dongmantang&amp;section_slot=0&amp;chapter_slot=794</link>
-      <description>一人之下 - 包子漫画 - 757 分手</description>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.baozimh.com/user/page_direct?comic_id=yirenzhixia-dongmantang&amp;section_slot=0&amp;chapter_slot=794</guid>
     </item>
   </channel>
 </rss>
