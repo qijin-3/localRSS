@@ -5,8 +5,15 @@
     <link>https://indiefront.cn/articles/</link>
     <description>发现优秀的独立产品与开发者 - indiefront.cn 文章订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 14 Sep 2026 00:42:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 05:46:36 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/qijin-3/localRSS/main/output/indiefront.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>2026年跨境卖家的环境管理：六个平台的对比与落地路径</title>
+      <link>https://indiefront.cn/articles/cmu0kgqst006k9zthtfp3e8fa/</link>
+      <description>对卖家来说，这些变化的含义其实很简单：不要把环境体系绑定在某一个厂商的某一个功能上。用标准格式保存配置数据，保持代理与环境的解耦，定期演练一次切换流程。基础设施的意义不在于它有多先进，而在于当外部条件变化时，你的业务还能不能照常运转。</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmu0kgqst006k9zthtfp3e8fa/</guid>
+    </item>
     <item>
       <title>专注就能养鸡，放弃鸡就会挂｜专访「小鸡专注」创始人谭伟</title>
       <link>https://indiefront.cn/articles/cmsvnjstm005r9zth4h479pu2/</link>
@@ -59,7 +66,7 @@
     <item>
       <title>别人一年做10个App，他4年只做了&quot;一杯咖啡&quot;｜专访独立开发者风华</title>
       <link>https://indiefront.cn/articles/cms1vksbl003e9zthry06wv4q/</link>
-      <description>本期我们采访的独立开发者是风华，他是一名全职开发者，也是长期深耕咖啡行业的独立开发者。</description>
+      <description>别人一年做10个App，他4年只做了&quot;一杯咖啡&quot;｜专访独立开发者风华</description>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cms1vksbl003e9zthry06wv4q/</guid>
     </item>
@@ -209,13 +216,6 @@
       <description>每天睡4小时、用1周做出来的出海模板，现在月入1-3万｜专访独立开发者Kevin</description>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sh0e502bvfyx77n4syr0l/</guid>
-    </item>
-    <item>
-      <title>我做了款产品，1000人下载、60人付费，数据惨不忍睹，但用户都说好｜专访独立开发者刚子</title>
-      <link>https://indiefront.cn/articles/cmr8sh05l02btfyx7opwsls3e/</link>
-      <description>我做了款产品，1000人下载、60人付费，数据惨不忍睹，但用户都说好｜专访独立开发者刚子</description>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sh05l02btfyx7opwsls3e/</guid>
     </item>
   </channel>
 </rss>
