@@ -5,21 +5,16 @@
     <link>https://indiefront.cn/articles/</link>
     <description>发现优秀的独立产品与开发者 - indiefront.cn 文章订阅</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 19 Sep 2026 05:31:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 10:17:45 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/qijin-3/localRSS/main/output/indiefront.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>一文讲透TikTok账号环境隔离的原理与配置清单</title>
-      <link>https://indiefront.cn/articles/cmu2hfdak006m9zthz0u9x9ws/</link>
-      <description>TikTok和传统的桌面网页平台根本不是同一个量级的检测逻辑</description>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmu2hfdak006m9zthz0u9x9ws/</guid>
-    </item>
-    <item>
-      <title>2026年跨境卖家的环境管理：六个平台的对比与落地路径</title>
-      <link>https://indiefront.cn/articles/cmu0kgqst006k9zthtfp3e8fa/</link>
-      <description>对卖家来说，这些变化的含义其实很简单：不要把环境体系绑定在某一个厂商的某一个功能上。用标准格式保存配置数据，保持代理与环境的解耦，定期演练一次切换流程。基础设施的意义不在于它有多先进，而在于当外部条件变化时，你的业务还能不能照常运转。</description>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://indiefront.cn/articles/cmu0kgqst006k9zthtfp3e8fa/</guid>
+      <title>【工具推荐】ToolSide-随手就能打开的工具箱</title>
+      <link>https://indiefront.cn/articles/cmu812hjk006s9zthhdw72q8s/</link>
+      <description>这一期不是采访，是一期产品推荐。
+推荐的是什么产品呢？
+ToolSide-一款随手就可以打开的浏览器工具箱插件。</description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmu812hjk006s9zthhdw72q8s/</guid>
     </item>
     <item>
       <title>专注就能养鸡，放弃鸡就会挂｜专访「小鸡专注」创始人谭伟</title>
@@ -66,7 +61,7 @@
     <item>
       <title>「最好有个本职工作」：一个全栈工程师的独立开发真心话｜专访独立开发者Meathill</title>
       <link>https://indiefront.cn/articles/cms1xli9z003g9zthre8cidxb/</link>
-      <description>「最好有个本职工作」：一个全栈工程师的独立开发真心话｜专访独立开发者Meathill</description>
+      <description>我是欧维，本期我们采访的独立开发者是Meathill，他的产品是Muicv：一款面向求职找工作的AI Agent。目前产品上线3个月，已经成功跑通MVP，拿到了第1个付费订单。</description>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cms1xli9z003g9zthre8cidxb/</guid>
     </item>
@@ -216,6 +211,13 @@
       <description>独立开发者亲述：我投广告亏大了，但 SEO 帮我拿下了 8000 用户｜Evan专访</description>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sh0iz02bxfyx7y3kh14xv/</guid>
+    </item>
+    <item>
+      <title>每天睡4小时、用1周做出来的出海模板，现在月入1-3万｜专访独立开发者Kevin</title>
+      <link>https://indiefront.cn/articles/cmr8sh0e502bvfyx77n4syr0l/</link>
+      <description>每天睡4小时、用1周做出来的出海模板，现在月入1-3万｜专访独立开发者Kevin</description>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://indiefront.cn/articles/cmr8sh0e502bvfyx77n4syr0l/</guid>
     </item>
   </channel>
 </rss>
